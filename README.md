@@ -1,4 +1,4 @@
-# SEO en 10 minutos – Arquitectura, On-Page y SEO Técnico
+# SEO - Arquitectura, On-Page y SEO Técnico
 
 ![SEO](https://img.shields.io/badge/SEO-Strategy-blue)
 ![Architecture](https://img.shields.io/badge/Web-Architecture-green)
